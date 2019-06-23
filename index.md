@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Sito per provare
 
 In questo sito vedremo di provare come funziona l'utilizzo dello spazio web reso a disposizione da github.
