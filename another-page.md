@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Chi sono 
 
-_yay_
+Sperimentatore ed esploratore di nuove soluzioni, insegnante di scuola primaria appassionato di tutto quello che è tecnologia. Cerco di capire come funzionano  le cose e mi piace imparare.
 
 [back](./)
