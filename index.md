@@ -4,20 +4,23 @@ layout: default
 
 # Sito per provare
 
-In questo sito vedremo di provare come funziona l'utilizzo dello spazio web reso a disposizione da github.
+In questo sito vedremo di provare come funziona l'utilizzo dello spazio web che si può utilizzare con la funzione pages di [Github](https://pages.github.com/).
 
-Non so se riuscirò a capire tutto quello che si può fare, ma ci proviamo pian piano.
 
-## Primo esperimento
+## Per che cosa
+ sembra una buona possibilità di utilizzo dello spazio web, con l'agilita di creazione di un contenuto direttamente sul proprio computer in sincronia con i dati presenti nel web.
 
-Mettere il tema nello spazio github.io, per ora pare riuscito. Ho editato la prima pagina con le queste informazioni che sto cominciando a scrivere.
+## I miei riferimenti
 
-## I collegamenti
+Ho un [sito personale](http://www.paolomauri.it) che uso per appuntarmi riflessioni che mi capita di fare tra me e me riguardo il software libero, la scuola, la conoscenza condivisa.... Prendo anche qualche appunto [qui](https://magarinsieme.wordpress.com), un sito creato per capire come funziona WordPress e poi rimasto come altro spazio in cui annotare cose.
 
-Proviamo a mettere il collegamento al [mio sito principale](http://www.paolomauri.it) e vediamo se mi ricordo come funzionano i link scritto con il markdown.
+Uno spazio invece molto più fine a sè stesso, degli appunti on-line per ritrovare cose, è il [filo](https://writefreely.maupao.nohost.me).
 
-E adesso vediamo se riesco a collegare anche ad una pagina creata appositamente dove spiego [chi sono](./chi-sono.html)
+Inoltre aggiungo gli account social:
+* [Mastodon](https://framapiaf.org/@maupao) che è quello che sto usando di più nel momento in cui scrivo (2024)
+* [Twitter](https://twitter.com/mauri_paolo) non mi viene di chiamarlo X
 
-## Modificare la barra laterale
 
-Adesso vediamo come si fa a modificare la barra laterale per metterci quello che mi serve.... Penso che sia un'opzione del tema o del CSS. Vado a esplorare...
+## Mettere a posto i menu in questo tema.
+
+Questa cosa non l'ho ancora imparata, perchè ho abbandonato un po' l'esplorazione.
